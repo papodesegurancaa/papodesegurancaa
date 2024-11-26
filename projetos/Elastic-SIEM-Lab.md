@@ -29,3 +29,14 @@ Após logar no portal da aplicação, vemos no primeiro campo os ambientes que c
 ![image](https://github.com/user-attachments/assets/ec71e64a-adaa-4343-92db-369a2dbd9048)
 
 Neste exemplo estou executando a aplicação **NMAP** e rodando uma varredura de portas e outros tipos em outra das máquinas virtuais (linux lite), na imagem podemos ver o comando sendo executado e o que foi encontrado, em seguida iremos visualizar no dashboard/painel do Elastic Cloud.
+
+## 4. Visualizando os registros captados pelo Elastic:
+
+![image](https://github.com/user-attachments/assets/dfdb3bdc-8278-44ac-9b43-a8913a00557a)
+
+Repare que podemos buscar por termos, palavras-chave, no caso busquei pelo comando/aplicação nmap e a ferramenta retorna com tudo que foi identificado com este filtro, e tudo detalhado, que horas o comando foi realizado, qual sistema operacional do "atacante", no caso a VM do Kali, qual comando e opções foi utilizado.
+
+![image](https://github.com/user-attachments/assets/0068f434-adbd-40f9-b825-af318c2d775f)
+
+
+
