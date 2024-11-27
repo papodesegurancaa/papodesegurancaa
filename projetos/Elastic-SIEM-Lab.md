@@ -30,7 +30,7 @@ Após logar no portal da aplicação, vemos no primeiro campo os ambientes que c
 
 Neste exemplo estou executando a aplicação **NMAP** e rodando uma varredura de portas e outros tipos em outra das máquinas virtuais (linux lite), na imagem podemos ver o comando sendo executado e o que foi encontrado, em seguida iremos visualizar no dashboard/painel do Elastic Cloud.
 
-## 4. Visualizando os registros captados pelo Elastic:
+## 4. Visualizando os registros captados pelo Elastic por texto:
 
 ![image](https://github.com/user-attachments/assets/dfdb3bdc-8278-44ac-9b43-a8913a00557a)
 
@@ -38,5 +38,10 @@ Repare que podemos buscar por termos, palavras-chave, no caso busquei pelo coman
 
 ![image](https://github.com/user-attachments/assets/0068f434-adbd-40f9-b825-af318c2d775f)
 
+## 5. Visualizando os registros captados pelo Elastic graficamente:
+
+Nessa tela vemos outro exemplo de visualização dos dados capturados de uma forma gráfica, neste caso utilizando um gráfico de barras, podemos ver cada registro a cada minuto.
+
+![image](https://github.com/user-attachments/assets/cb27ebf6-184b-4cfc-bfe7-86d684bd2d2a)
 
 
