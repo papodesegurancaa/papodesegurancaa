@@ -1,7 +1,7 @@
 # 👨‍💻 Olá humano, Samuel aqui 👽
 
 🛡️ **Cybersecurity Professional | Vulnerability Analysis | OSINT | Hardware Hacking**  
-🔍 *Explorando o mundo da segurança cibernética, tenho como missão encontrar vulnerabilidades e auxiliar a proteger os dados dos meus clientes.*
+🔍 *Tenho como objetivo encontrar vulnerabilidades e auxiliar meus clientes a proteger a si mesmos, suas companhias e seus dados.*
 
 ---
 
