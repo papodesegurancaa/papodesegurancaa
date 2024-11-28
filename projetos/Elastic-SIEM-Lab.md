@@ -55,4 +55,4 @@ Nessa tela vemos outro exemplo de visualização dos dados capturados de uma for
 
 Pode-se definir um tempo para visualizar os eventos ocorridos, sejam eles "normais" sejam de possíveis ou de fato ataques.
 
-# Em breve irei demonstrar outras opções bem interessantes do Elastic e até mesmo de outras ferramentas SIEM, obrigado e até a próxima.
+# Em breve irei demonstrar outras opções bem interessantes do Elastic e até mesmo de outras ferramentas SIEM.
