@@ -28,7 +28,7 @@
 
 ---
 
-
+<!--
 ## 🔗 Projetos em Destaque
 ### 🕵️‍♂️ [OSINT Toolkit](https://github.com/seuusuario/osint-toolkit)
 > Ferramenta automatizada para coleta de dados públicos em investigações cibernéticas.  
@@ -41,7 +41,7 @@
 ### 🚀 [CTF Challenges Writeups](https://github.com/seuusuario/ctf-writeups)
 > Repositório com soluções detalhadas de desafios *Capture The Flag*.  
 ✅ Foco em *reverse engineering*, exploração web e análise forense.
-
+-->
 ---
 
 <!--## 📊 Estatísticas do GitHub
