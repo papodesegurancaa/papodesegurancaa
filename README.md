@@ -51,14 +51,14 @@
 ---
 
 ## 🌐 Onde me encontrar
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/samuelsants/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuelsants/)
 - 🐦 [Twitter](https://twitter.com/seutwitter)  
-- 🌍 [Blog Técnico](https://seublog.com)  
+<!--- 🌍 [Blog Técnico](https://seublog.com)-->
 
 ---
 
 ## 🎯 Objetivo Profissional
-🚀 Estou à procura de oportunidades para colaborar em projetos desafiadores na área de segurança cibernética. Se você precisa de um profissional dedicado para proteger seus sistemas ou desenvolver soluções inovadoras, entre em contato!
+🚀 Estou à procura de oportunidades para colaborar em projetos desafiadores na área de segurança cibernética. Entre em contato e fale mais sobre seu projeto!
 
 📩 **Email:** papodesegurancaa@gmail.com
 
